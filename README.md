@@ -9,10 +9,13 @@ where I look into the influence of the Human Development Index on different coun
 - Data correlation and movies in Jupyter Notebook
 
  ## Covid Data Analysis
-SQL project using Covid vaccination and death data sourced from [Our World in Data](https://ourworldindata.org/covid-deaths). This project showcases skills like aggregate functions, joining tables, and creating CTEs and views. [CovidData.sql](Data-Analysis-Projects/CovidData.sql) includes all of the queries I made while analyzing data. While [CovidDataEdited.sql](Data-Analysis-Projects/CovidDataEdited.sql) contains all the queries used for Tableau data visualization.
+An SQL project using Covid vaccination and death data sourced from [Our World in Data](https://ourworldindata.org/covid-deaths). This project showcases skills like aggregate functions, joining tables, and creating CTEs and views. [CovidData.sql](CovidData.sql) includes all of the queries I made while analyzing the data. While [CovidDataEdited.sql](CovidDataEdited.sql) contains all the queries I used for Tableau data visualization.
 
  ## Covid Data Visualization
+ Below are links to my two Tableau dashboards for the SQL projects referenced above. [Dashboard 1](https://public.tableau.com/shared/D7W3YR8ST?:display_count=n&:origin=viz_share_link) contains tables relating to infections and deaths globally. [Dashboard 2](https://public.tableau.com/shared/5X9DCCC92?:display_count=n&:origin=viz_share_link) looks at the Human Development Index and its relation to life expectency for people infected with Covid.
+
+_Please note this data may not be accurate to data discovered today, as the provided data set is from 2020 to 2021._
 
  ## Data Cleaning
-
+Another SQL focusing on data cleaning by checking for null values and duplicates. As well as data formatting: such as formatting a "Dates" column to fit the MM-DD-YYYY format, and splitting adress columns to be seperated into a more readable format. The dataset is Nashville housing data.
  ## Data Correlation
