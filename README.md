@@ -9,6 +9,7 @@ where I look into the influence of the Human Development Index on different coun
 - Data correlation and movies in Jupyter Notebook
 
  ## Covid Data Analysis
+SQL project using Covid vaccination and death data sourced from [Our World in Data](https://ourworldindata.org/covid-deaths). This project showcases skills like aggregate functions, joining tables, and creating CTEs and views. [CovidData.sql](Data-Analysis-Projects/CovidData.sql) includes all of the queries I made while analyzing data. While [CovidDataEdited.sql](Data-Analysis-Projects/CovidDataEdited.sql) contains all the queries used for Tableau data visualization.
 
  ## Covid Data Visualization
 
