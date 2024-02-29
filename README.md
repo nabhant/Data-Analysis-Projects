@@ -17,5 +17,7 @@ An SQL project using Covid vaccination and death data sourced from [Our World in
 _Please note this data may not be accurate to data discovered today, as the provided data set is from 2020 to 2021._
 
  ## Data Cleaning
-Another SQL focusing on data cleaning by checking for null values and duplicates. As well as data formatting: such as formatting a "Dates" column to fit the MM-DD-YYYY format, and splitting adress columns to be seperated into a more readable format. The dataset is Nashville housing data.
+Another SQL focusing on data cleaning by checking for null values and duplicates. As well as data formatting: such as formatting a "Dates" column to fit the MM-DD-YYYY format, and splitting adress columns to be separated into a more readable format. The dataset is Nashville housing data.
+
  ## Data Correlation
+ Python project in Jupyter Notebook. Using libraries like matplotlib, pandas, numpy, and seaborn to create scatterplots and heatmaps to find correlations in a dataset focusing on movies. The dataset comes from [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies).
